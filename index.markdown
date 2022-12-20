@@ -41,9 +41,9 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/XiaomengJu.jpeg">
+<img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title></strong></p>
+<p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
 </td></tr>
 </table>
@@ -55,9 +55,9 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/ElijahCavan.png">
+<img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title></strong></p>
+<p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
 </td></tr>
 </table>
@@ -69,9 +69,9 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/NikolaSurjanovic.jpg">
+<img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title></strong></p>
+<p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
 </td></tr>
 </table>
@@ -88,9 +88,9 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/WendyWang.jpeg">
+<img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title></strong></p>
+<p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
 </td></tr>
 </table>
@@ -102,9 +102,9 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/JohnnyXi.jpg">
+<img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title></strong></p>
+<p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
 </td></tr>
 </table>
@@ -116,9 +116,9 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/MandyYao.jpeg">
+<img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title></strong></p>
+<p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
 </td></tr>
 </table>
@@ -135,9 +135,9 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/KeeganKorthauer.jpeg">
+<img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title></strong></p>
+<p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
 </td></tr>
 </table>
@@ -154,4 +154,4 @@ This term's event will be hosted virtually through zoom on **TBD** starting at *
 |<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>|
 
 # Past Seminars
-|[Spring 2022](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/) | [Fall 2021](https://www.sfu.ca/~rennyd/JointSeminar2021/) | [Spring 2021](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/) | [Fall 2020](http://www.sfu.ca/~nsurjano/JointSeminar/) | [Spring 2020](https://chiukenny.github.io/jointseminar-2019w2/) |
+| [Spring 2022](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/) | [Fall 2021](https://www.sfu.ca/~rennyd/JointSeminar2021/) | [Spring 2021](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/) | [Fall 2020](http://www.sfu.ca/~nsurjano/JointSeminar/) | [Spring 2020](https://chiukenny.github.io/jointseminar-2019w2/) |
