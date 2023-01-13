@@ -24,7 +24,9 @@ Check out more events hosted by the [UBC Statistics Graduate Student Association
 
 # Registration
 
-This term's event will be hosted virtually through zoom on **TBD** starting at **10:00 am**. Register now through the registration form (link to be provided).
+This term's event will be hosted **in-person at SFU Harbour Centre on March 4, 2023**. The event starts at **10:00 am**. 
+Register now through the registration form (link to be provided)! If you are interested in presenting,
+please contact Nikola, Chloe, or Naitong.
 
 
 # Schedule
