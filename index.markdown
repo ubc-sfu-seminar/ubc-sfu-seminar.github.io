@@ -132,12 +132,12 @@ please contact Nikola, Chloe, or Naitong.
 
 ---
 
-### <span style="color:#1756a9"> Faculty Speaker </span>
+### <span style="color:#1756a9"> Faculty Speaker: Dr. Lucy Gao </span>
 #### <span style="color:#1756a9"> 12:55pm - 1:55pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/Lucy_Gao.png">
 </td><td>
 <p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
