@@ -38,7 +38,7 @@ please contact Nikola, Chloe, or Naitong.
 
 ---
 
-### <span style="color:#1756a9"> Speaker 1 (UBC) </span>
+### <span style="color:#1756a9"> Lily Xia (UBC) </span>
 #### <span style="color:#1756a9"> 10:05am - 10:30am </span>
 
 <table cellspacing="0" cellpadding="0">
