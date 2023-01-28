@@ -25,7 +25,7 @@ Check out more events hosted by the [UBC Statistics Graduate Student Association
 # Registration
 
 This term's event will be hosted **in-person at SFU Harbour Centre on March 4, 2023**. The event starts at **10:00 am**. 
-Register now through the registration form (link to be provided)! If you are interested in presenting,
+Register now through the [registration form](https://forms.gle/Me6sJD7Keg5wfTya9)! If you are interested in presenting,
 please contact Nikola, Chloe, or Naitong.
 
 
@@ -33,13 +33,18 @@ please contact Nikola, Chloe, or Naitong.
 
 ---
 
+### <span style="color:#1756a9"> Breakfast </span> 
+#### <span style="color:#1756a9">  10:00am - 10:30am </span>
+
+---
+
 ### <span style="color:#1756a9"> Welcome Message </span> 
-#### <span style="color:#1756a9">  10:00am - 10:05am </span>
+#### <span style="color:#1756a9">  10:30am - 10:35am </span>
 
 ---
 
 ### <span style="color:#1756a9"> Lily Xia (UBC) </span>
-#### <span style="color:#1756a9"> 10:05am - 10:30am </span>
+#### <span style="color:#1756a9"> 10:35am - 11:00am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -53,7 +58,7 @@ please contact Nikola, Chloe, or Naitong.
 ---
 
 ### <span style="color:#1756a9"> Speaker 1 (SFU) </span>
-#### <span style="color:#1756a9"> 10:30am - 10:55am </span>
+#### <span style="color:#1756a9"> 11:00am - 11:25am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -67,7 +72,7 @@ please contact Nikola, Chloe, or Naitong.
 ---
 
 ### <span style="color:#1756a9"> Speaker 2 (UBC) </span>
-#### <span style="color:#1756a9"> 10:55am - 11:20am </span>
+#### <span style="color:#1756a9"> 11:25am - 11:50am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -80,13 +85,13 @@ please contact Nikola, Chloe, or Naitong.
 
 ---
 
-### <span style="color:#1756a9"> Break </span>
-#### <span style="color:#1756a9"> 11:20am - 11:30am </span>
+### <span style="color:#1756a9"> Lunch </span>
+#### <span style="color:#1756a9"> 11:50am - 12:50pm </span>
 
 ---
 
 ### <span style="color:#1756a9"> Speaker 2 (SFU) </span>
-#### <span style="color:#1756a9"> 11:30am - 11:55am </span>
+#### <span style="color:#1756a9"> 12:50pm - 1:15pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -100,7 +105,7 @@ please contact Nikola, Chloe, or Naitong.
 ---
 
 ### <span style="color:#1756a9"> Speaker 3 (UBC) </span>
-#### <span style="color:#1756a9"> 11:55am - 12:20pm </span>
+#### <span style="color:#1756a9"> 1:15pm - 1:40pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -114,7 +119,7 @@ please contact Nikola, Chloe, or Naitong.
 ---
 
 ### <span style="color:#1756a9"> Speaker 3 (SFU) </span>
-#### <span style="color:#1756a9"> 12:20pm - 12:45pm </span>
+#### <span style="color:#1756a9"> 1:40pm - 2:05pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -128,12 +133,12 @@ please contact Nikola, Chloe, or Naitong.
 ---
 
 ### <span style="color:#1756a9"> Break </span>
-#### <span style="color:#1756a9"> 12:45pm - 12:55pm </span>
+#### <span style="color:#1756a9"> 2:05pm - 2:15pm </span>
 
 ---
 
 ### <span style="color:#1756a9"> Faculty Speaker: Dr. Lucy Gao </span>
-#### <span style="color:#1756a9"> 12:55pm - 1:55pm </span>
+#### <span style="color:#1756a9"> 2:15pm - 3:15pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -147,7 +152,7 @@ please contact Nikola, Chloe, or Naitong.
 ---
 
 ### <span style="color:#1756a9"> Networking and Drinks at Rogue! </span>
-#### <span style="color:#1756a9"> 1:55pm </span>
+#### <span style="color:#1756a9"> 3:15pm </span>
 
 ---
 
