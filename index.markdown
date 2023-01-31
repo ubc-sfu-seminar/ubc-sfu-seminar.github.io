@@ -57,15 +57,17 @@ please contact Nikola, Chloe, or Naitong.
 
 ---
 
-### <span style="color:#1756a9"> Speaker 1 (SFU) </span>
+### <span style="color:#1756a9"> William Ruth (SFU) </span>
 #### <span style="color:#1756a9"> 11:00am - 11:25am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title</strong></p>
-<p style="text-align:justify">Abstract.</p>
+<p><strong>A Monte Carlo EM Analysis of COVID-19 Outbreaks in Long-Term Healthcare Facilities</strong></p>
+<p style="text-align:justify">We analyze a dataset of daily case counts from COVID-19 outbreaks in long-term care facilities across BC, Canada. We treat infection durations as missing data and apply the EM algorithm to estimate the probability of transmission and mean infection duration, as well as a third parameter governing the effectiveness of outbreak management.
+
+We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional expectations with Monte Carlo integrals. Importance sampling is used to generate the necessary Monte Carlo samples. We propose a novel stopping rule for the MCEM algorithm based on a well-known relationship between the score vectors of the observed and complete data models.</p>
 </td></tr>
 </table>
 
