@@ -62,7 +62,7 @@ please contact Nikola, Chloe, or Naitong.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/Will_Ruth.png">
 </td><td>
 <p><strong>A Monte Carlo EM Analysis of COVID-19 Outbreaks in Long-Term Healthcare Facilities</strong></p>
 <p style="text-align:justify">We analyze a dataset of daily case counts from COVID-19 outbreaks in long-term care facilities across BC, Canada. We treat infection durations as missing data and apply the EM algorithm to estimate the probability of transmission and mean infection duration, as well as a third parameter governing the effectiveness of outbreak management.
