@@ -73,7 +73,7 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 
 ---
 
-### <span style="color:#1756a9"> Speaker 2 (UBC) </span>
+### <span style="color:#1756a9"> Ning Shen (UBC) </span>
 #### <span style="color:#1756a9"> 11:25am - 11:50am </span>
 
 <table cellspacing="0" cellpadding="0">
@@ -92,21 +92,21 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 
 ---
 
-### <span style="color:#1756a9"> Speaker 2 (SFU) </span>
+### <span style="color:#1756a9"> Matt Berkowitz (SFU) </span>
 #### <span style="color:#1756a9"> 12:50pm - 1:15pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/placeholder.png">
 </td><td>
-<p><strong>Talk title</strong></p>
-<p style="text-align:justify">Abstract.</p>
+<p><strong>Random survival forests: which methods work best and under what conditions?</strong></p>
+<p style="text-align:justify">There have been few systematic comparisons of how best to build survival trees and forests. An important question to answer in the literature is as follows: What are the best methods for constructing forests using survival data, as evaluated by a predefined metric of error? Our investigation systematically investigates various factors – forest construction method, censoring, sample size, the distributions of the response and predictor variables, and the presence of confounding or noisy predictors – that influence survival forest performance via an extensive simulation study. We find that all these factors, as well as many of their interactions, have significant effects on estimating survival functions and predicting survival times. We make recommendations for which methods to use depending on the data settings one is dealing with.</p>
 </td></tr>
 </table>
 
 ---
 
-### <span style="color:#1756a9"> Speaker 3 (UBC) </span>
+### <span style="color:#1756a9"> Menglin Zhou (UBC) </span>
 #### <span style="color:#1756a9"> 1:15pm - 1:40pm </span>
 
 <table cellspacing="0" cellpadding="0">
@@ -120,7 +120,7 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 
 ---
 
-### <span style="color:#1756a9"> Speaker 3 (SFU) </span>
+### <span style="color:#1756a9"> Hashan Peiris (SFU) </span>
 #### <span style="color:#1756a9"> 1:40pm - 2:05pm </span>
 
 <table cellspacing="0" cellpadding="0">
