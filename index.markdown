@@ -111,10 +111,10 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/Menglin_Zhou.png">
 </td><td>
-<p><strong>Talk title</strong></p>
-<p style="text-align:justify">Abstract.</p>
+<p><strong>Reverse stress testing and multivariate extremes</strong></p>
+<p style="text-align:justify">Reverse stress testing of a financial portfolio aims to identify scenarios for risk factors that lead to a specified adverse portfolio outcome, typically a portfolio loss of a given magnitude. The stress scenarios of interest naturally need to be probable yet extreme. In order to capture movements of risk factors that result in large portfolio losses, we propose a method to estimate stress scenarios using extrapolation based on techniques from multivariate extreme value theory. Such a method effectively addresses data scarcity in the joint tail regions while allowing for more flexible model assumptions focused on extremes. We study the asymptotic behaviour of the proposed estimator, investigate its finite-sample performance in simulation studies and apply it to real data in a case study.</p>
 </td></tr>
 </table>
 
