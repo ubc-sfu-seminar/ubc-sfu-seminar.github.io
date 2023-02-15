@@ -125,10 +125,10 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/Hashan_Peiris.png">
 </td><td>
-<p><strong>Talk title</strong></p>
-<p style="text-align:justify">Abstract.</p>
+<p><strong>Integration of traditional and telematics data for efficient insurance claims prediction</strong></p>
+<p style="text-align:justify">Driver telematics has gained attention for risk classification in auto insurance which can surpass the use of merely traditional data in benefits. As there is a discernible difference in dimensions between traditional and telematics data sets, the scarcity of observations with telematics features has become problematic, which could be owing to either privacy concern or adverse selection compared to the data points with traditional features. To handle this issue, we propose a data integration technique based on calibration weights. It is shown that the proposed technique can efficiently integrate the so-called traditional data and telematics data than some benchmark models. Moreover, it copes with possible adverse selection issues on the availability of telematics data. Our findings are supported by a simulation study and empirical analysis in a synthetic telematics data set.</p>
 </td></tr>
 </table>
 
