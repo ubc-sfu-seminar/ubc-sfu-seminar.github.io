@@ -163,4 +163,4 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 |<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>|
 
 # Past Seminars
-| [Spring 2022](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/) | [Fall 2021](https://www.sfu.ca/~rennyd/JointSeminar2021/) | [Spring 2021](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/) | [Fall 2020](http://www.sfu.ca/~nsurjano/JointSeminar/) | [Spring 2020](https://chiukenny.github.io/jointseminar-2019w2/) |
+| [Fall 2022](http://www.sfu.ca/~rennyd/JointSeminar2022/) | [Spring 2022](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/) | [Fall 2021](https://www.sfu.ca/~rennyd/JointSeminar2021/) | [Spring 2021](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/) | [Fall 2020](http://www.sfu.ca/~nsurjano/JointSeminar/) | [Spring 2020](https://chiukenny.github.io/jointseminar-2019w2/) |
