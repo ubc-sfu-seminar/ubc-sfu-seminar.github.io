@@ -50,8 +50,8 @@ please contact Nikola, Chloe, or Naitong.
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/Lily_Xia.png">
 </td><td>
-<p><strong>Talk title</strong></p>
-<p style="text-align:justify">Abstract.</p>
+<p><strong>Measuring the discriminatory performance of algorithms in predicting treatment benefit</strong></p>
+<p style="text-align:justify">Prediction algorithms that quantify the expected benefit of a given treatment conditional on patient characteristics can critically inform medical decisions. Quantifying the performance of treatment benefit prediction algorithms is an active area of research. Algorithm evaluation can be categorized into discrimination, calibration and clinical utility. A recently proposed metric, the concordance statistic for benefit (cfb), evaluates the discriminative ability of a treatment benefit predictor by directly extending the concept of the concordance statistic from a risk model with a binary outcome to a model for treatment benefit. We show our methodological concerns about such metrics on multiple fronts and provide an alternative metric for the discriminatory performance of treatment benefit predictors.</p>
 </td></tr>
 </table>
 
