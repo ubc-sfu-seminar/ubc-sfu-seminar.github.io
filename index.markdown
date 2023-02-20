@@ -80,8 +80,8 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/Ning_Shen.png">
 </td><td>
-<p><strong>Talk title</strong></p>
-<p style="text-align:justify">Abstract.</p>
+<p><strong>Probabilistic Modeling of Single-cell Methylation Heterogeneity at Site-level Resolution</strong></p>
+<p style="text-align:justify">DNA methylation is a heritable chemical modification that can occur on specific sites in the human genome. Single-cell bisulfite sequencing enables measurement of methylation in individual cells and help finding inter-cellular methylation patterns. However, the data output is often so sparse and noisy, with typically a >90% missing rate. Thus, ‘feature selection’ becomes an essential step in the process of analyzing single-cell methylation data. Specifically, the ‘features’ refers to regions of the genome with highly variable methylation states in different cells. We propose a statistical framework to thoroughly search for these features with a genome-wide scan in a flexible manner that does not require prior knowledge of their sizes or location contexts. Based on simulations and case studies, our analytical scheme has shown improvements in cell-type clustering performance and provided interesting biological explorability.</p>
 </td></tr>
 </table>
 
