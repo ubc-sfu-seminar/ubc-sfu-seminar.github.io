@@ -78,7 +78,7 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/Ning_Shen.png">
 </td><td>
 <p><strong>Talk title</strong></p>
 <p style="text-align:justify">Abstract.</p>
