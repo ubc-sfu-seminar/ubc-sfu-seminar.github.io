@@ -148,6 +148,7 @@ We use the Monte Carlo EM (MCEM) algorithm to approximate difficult conditional 
 </td><td>
 <p><strong>Building a Professional Online Presence</strong></p>
 <p style="text-align:justify">I will discuss my thoughts and experiences on how and why to build an online presence as a professional or academic statistician. This will include how to get started if you're currently completely offline, and how to grow your visibility if you are already online.</p>
+<p>Link to the slides can be found <a href="https://www.dropbox.com/s/fit9xfhndr79w6m/2023-StudentSeminar.pdf?dl=0" style="color:#1756a9">here</a>.</p>
 </td></tr>
 </table>
 
