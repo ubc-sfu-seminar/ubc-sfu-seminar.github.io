@@ -1,5 +1,7 @@
 ---
 layout: home
+title: UBC/SFU Joint Statistics Seminar - Spring 2023
+permalink: /2023
 ---
 
 <style>

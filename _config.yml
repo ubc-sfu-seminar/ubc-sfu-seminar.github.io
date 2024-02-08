@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: UBC/SFU Joint Statistics Seminar - Spring 2023
+title: UBC/SFU Joint Statistics Seminar
 # email: your-email@example.com
 footnote: >- # this means to ignore newlines until "baseurl:"
-  © 2023 UBC/SFU Joint Statistics Seminar. Powered by Jekyll. Organized by Chloe You, Naitong Chen, and Nikola Surjanovic.
+  UBC/SFU Joint Statistics Seminar. Powered by Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

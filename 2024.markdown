@@ -1,5 +1,7 @@
 ---
 layout: home
+title: UBC/SFU Joint Statistics Seminar - Spring 2024
+permalink: /2024
 ---
 
 <style>
@@ -161,7 +163,7 @@ please contact Johnny, Naitong, or Ning.
 |<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>|
 
 # Past Seminars
-| [Fall 2023](https://www.sfu.ca/~rda88/JointSeminar2023/) | [Spring 2023](https://ubc-sfu-seminar.github.io/2023/) 
+| [Fall 2023](https://www.sfu.ca/~rda88/JointSeminar2023/) | [Spring 2023](https://ubc-sfu-seminar.github.io/2023) 
 | [Fall 2022](http://www.sfu.ca/~rennyd/JointSeminar2022/) | [Spring 2022](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/) 
 | [Fall 2021](https://www.sfu.ca/~rennyd/JointSeminar2021/) | [Spring 2021](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/) 
 | [Fall 2020](http://www.sfu.ca/~nsurjano/JointSeminar/) | [Spring 2020](https://chiukenny.github.io/jointseminar-2019w2/) |
