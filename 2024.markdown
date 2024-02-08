@@ -1,0 +1,167 @@
+---
+layout: home
+---
+
+<style>
+td, th, tr, table {
+   border: none!important;
+   background-color: transparent!important;
+}
+h2, h3, h4 {
+    text-align: center;
+}
+</style>
+
+
+# About
+
+The UBC/SFU Joint Statistics Seminar is jointly hosted by the graduate students of the [UBC Department of Statistics](https://www.stat.ubc.ca/) and the [SFU Department of Statistics and Actuarial Science](https://www.sfu.ca/stat-actsci.html). The Spring 2024 event is the second of two events taking place in the 2023/2024 academic year. The Fall 2023 event was organized by graduate students from SFU, and the Spring 2024 event is organized by graduate students from UBC. Over its 19-year history, the event has offered Statistics and Actuarial Science graduate and undergraduate students at both schools an opportunity to network with their peers and to attend accessible talks about the research work of their fellow students and faculty. 
+
+The Spring 2024 event includes talks given by six students (three from UBC and three from SFU) and one faculty member from UBC.
+
+Check out more events hosted by the [UBC Statistics Graduate Student Association](https://ubc-stat-grad.github.io/).
+
+
+# Registration
+
+This term's event will be hosted **in-person at UBC's Earth Sciences Building (ESB) on March 9, 2024**. The event starts at **10:00 am**. 
+Register now through the [registration form](https://forms.gle/Me6sJD7Keg5wfTya9)! If you are interested in presenting,
+please contact Johnny, Naitong, or Ning.
+
+
+# Schedule
+
+---
+
+### <span style="color:#1756a9"> Breakfast </span> 
+#### <span style="color:#1756a9">  10:00am - 10:30am </span>
+
+---
+
+### <span style="color:#1756a9"> Welcome Message </span> 
+#### <span style="color:#1756a9">  10:30am - 10:35am </span>
+
+---
+
+### <span style="color:#1756a9"> Speaker 1 (UBC) </span>
+#### <span style="color:#1756a9"> 10:35am - 11:00am </span>
+
+<table cellspacing="0" cellpadding="0">
+<tr><td width="50%" style="vertical-align:text-top">
+<img src="assets/placeholder.png">
+</td><td>
+<p><strong>Title</strong></p>
+<p style="text-align:justify">Abstract</p>
+</td></tr>
+</table>
+
+---
+
+### <span style="color:#1756a9"> Speaker 2 (SFU) </span>
+#### <span style="color:#1756a9"> 11:05am - 11:30am </span>
+
+<table cellspacing="0" cellpadding="0">
+<tr><td width="50%" style="vertical-align:text-top">
+<img src="assets/placeholder.png">
+</td><td>
+<p><strong>Title</strong></p>
+<p style="text-align:justify">Abstract</p>
+</td></tr>
+</table>
+
+---
+
+### <span style="color:#1756a9"> Speaker 3 (UBC) </span>
+#### <span style="color:#1756a9"> 11:35am - 12:00pm </span>
+
+<table cellspacing="0" cellpadding="0">
+<tr><td width="50%" style="vertical-align:text-top">
+<img src="assets/placeholder.png">
+</td><td>
+<p><strong>Title</strong></p>
+<p style="text-align:justify">Abstract</p>
+</td></tr>
+</table>
+
+---
+
+### <span style="color:#1756a9"> Lunch </span>
+#### <span style="color:#1756a9"> 12:00pm - 1:00pm </span>
+
+---
+
+### <span style="color:#1756a9"> Speaker 4 (SFU) </span>
+#### <span style="color:#1756a9"> 1:00pm - 1:25pm </span>
+
+<table cellspacing="0" cellpadding="0">
+<tr><td width="50%" style="vertical-align:text-top">
+<img src="assets/placeholder.png">
+</td><td>
+<p><strong>Title</strong></p>
+<p style="text-align:justify">Abstract</p>
+</td></tr>
+</table>
+
+---
+
+### <span style="color:#1756a9"> Speaker 5 (UBC) </span>
+#### <span style="color:#1756a9"> 1:30pm - 1:55pm </span>
+
+<table cellspacing="0" cellpadding="0">
+<tr><td width="50%" style="vertical-align:text-top">
+<img src="assets/placeholder.png">
+</td><td>
+<p><strong>Title</strong></p>
+<p style="text-align:justify">Abstract</p>
+</td></tr>
+</table>
+
+---
+
+### <span style="color:#1756a9"> Speaker 6 (SFU) </span>
+#### <span style="color:#1756a9"> 2:00pm - 2:25pm </span>
+
+<table cellspacing="0" cellpadding="0">
+<tr><td width="50%" style="vertical-align:text-top">
+<img src="assets/placeholder.png">
+</td><td>
+<p><strong>Title</strong></p>
+<p style="text-align:justify">Abstract</p>
+</td></tr>
+</table>
+
+---
+
+### <span style="color:#1756a9"> Break </span>
+#### <span style="color:#1756a9"> 2:25pm - 2:35pm </span>
+
+---
+
+### <span style="color:#1756a9"> Faculty Speaker (UBC) </span>
+#### <span style="color:#1756a9"> 2:35pm - 3:35pm </span>
+
+<table cellspacing="0" cellpadding="0">
+<tr><td width="50%" style="vertical-align:text-top">
+<img src="assets/placeholder.png">
+</td><td>
+<p><strong>Title</strong></p>
+<p style="text-align:justify">Abstract</p>
+</td></tr>
+</table>
+
+---
+
+### <span style="color:#1756a9"> Networking and Drinks at Browns! </span>
+#### <span style="color:#1756a9"> 3:40pm </span>
+
+---
+
+# Sponsors
+
+|<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>|
+
+# Past Seminars
+| [Fall 2023](https://www.sfu.ca/~rda88/JointSeminar2023/) | [Spring 2023](https://ubc-sfu-seminar.github.io/2023/) 
+| [Fall 2022](http://www.sfu.ca/~rennyd/JointSeminar2022/) | [Spring 2022](https://ubc-sfu-joint-stat-seminar-spring-2022.github.io/) 
+| [Fall 2021](https://www.sfu.ca/~rennyd/JointSeminar2021/) | [Spring 2021](https://www.stat.ubc.ca/~kenny.chiu/jointseminar/spring2021/) 
+| [Fall 2020](http://www.sfu.ca/~nsurjano/JointSeminar/) | [Spring 2020](https://chiukenny.github.io/jointseminar-2019w2/) |
