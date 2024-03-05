@@ -50,24 +50,24 @@ please contact Johnny, Naitong, or Ning.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/kenny.png">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Hypothesis testing for distributional invariance</strong></p>
+<p style="text-align:justify">Symmetry is a widespread phenomenon, manifesting as laws of conservation in physics to symmetric body shapes in biology. In statistics and machine learning, symmetry refers to the predictability of an object under some set of transformations. When a data distribution is known to obey a symmetry, various symmetry-exploiting methods have been developed for improved inference and prediction. However, using such methods under incorrect symmetry assumptions can be detrimental, and existing statistical tests for verifying symmetry focus on a handful of specialized cases. We consider invariant symmetries with respect to a general compact transformation group and formulate an intuitive non-parametric hypothesis test for group invariance based on a single sample of i.i.d. data. We implement this test using kernel methods and demonstrate its applications in particle physics and model validation.</p>
 </td></tr>
 </table>
 
 ---
 
-### <span style="color:#1756a9"> Speaker 2 (SFU) </span>
+### <span style="color:#1756a9"> Yiting Chen (SFU) </span>
 #### <span style="color:#1756a9"> 11:05am - 11:30am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/yiting_chen.jpg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>DEEPEAST technique to enhance power in two-sample tests via the same-attraction function</strong></p>
+<p style="text-align:justify">Data depth has emerged as an invaluable nonparametric measure for the ranking of multivariate samples. The main contribution of depth-based two-sample comparisons is the introduction of the Q statistic (Liu and Singh, 1993), a quality index. To overcome the problems of low statistical power or indeterminate asymptotic distributions in two-sample homogeneity tests, we introduced a DEEPEAST (depth-explored same-attraction sample-to-sample central-outward ranking) technique for improving statistical power in two-sample tests via the same-attraction function. We proposed two novel and powerful depth-based test statistics - the sum test statistic and the product test statistic - which are rooted in Q statistics, share a ‘common attractor’ and are applicable across all depth functions. We further proved the asymptotic distribution of these statistics for one-dimensional cases under Euclidean depth. Our proof has been extended to the multidimensional case for all depths. Through two-sample simulations, we demonstrated that our sum and product statistics exhibit superior power performance, utilizing a strategic block permutation algorithm. Our tests are further validated through analysis on Raman spectral data, acquired from cellular and tissue samples, highlighting the effectiveness of the proposed tests.</p>
 </td></tr>
 </table>
 
@@ -92,15 +92,15 @@ please contact Johnny, Naitong, or Ning.
 
 ---
 
-### <span style="color:#1756a9"> Speaker 4 (SFU) </span>
+### <span style="color:#1756a9"> Muye Nanshan (SFU) </span>
 #### <span style="color:#1756a9"> 1:00pm - 1:25pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/muye_nanshan.jpg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Online functional principal component analysis on a multidimensional domain with dynamic tuning</strong></p>
+<p style="text-align:justify">Functional Principal Component Analysis (FPCA) is an essential dimension reduction tool for functional data. The emergence of large-scale, multidimensional functional datasets has highlighted the demand for an online FPCA approach. This work leverages Riemannian Stochastic Gradient Descent (RSGD) for an efficient online update of the principle components with minimal computational effort. Furthermore, we adjust the tuning parameter dynamically during the online estimation process using a novel evaluation metric, the Averaged Block Validation (ABV) score, and an innovative beam search technique. Theoretical backing for the convergence of the RSGD algorithm with dynamic tuning is provided. Simulation studies and applications to two datasets reveal our method's effectiveness in quickly processing large datasets and accurately estimating FPCs.</p>
 </td></tr>
 </table>
 
@@ -111,24 +111,24 @@ please contact Johnny, Naitong, or Ning.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/olivia.png">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>RtEstim: Effective reproduction number estimation with trend filtering</strong></p>
+<p style="text-align:justify">To understand the transmissibility and spread of infectious diseases, epidemiologists turn to estimates of the effective reproduction number. While many estimation approaches exist, their utility may be limited. Challenges of surveillance data collection, model assumptions that are unverifiable with data alone, and computationally inefficient frameworks are critical limitations for many existing approaches. We propose a discrete spline-based approach RtEstimthat solves a convex optimization problem—Poisson trend filtering—using the proximal Newton method. It produces a locally adaptive estimator for effective reproduction number estimation with heterogeneous smoothness. RtEstim remains accurate even under some process misspecifications and is computationally efficient, even for large-scale data. The implementation is easily accessible in a lightweight R package rtestim: https://dajmcdon.github.io/rtestim/.</p>
 </td></tr>
 </table>
 
 ---
 
-### <span style="color:#1756a9"> Speaker 6 (SFU) </span>
+### <span style="color:#1756a9"> Renny Doig (SFU) </span>
 #### <span style="color:#1756a9"> 2:00pm - 2:25pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/renny_doig.jpg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>An exploratory analysis of COVID-19 contact tracing data in Newfoundland and Labrador</strong></p>
+<p style="text-align:justify">From March 2020 until late 2021, the province of Newfoundland and Labrador (NL) implemented a containment strategy in response to the risk posed by the COVID-19 pandemic. A key component of their containment strategy was a contact tracing program which, due to the nature of the pandemic in NL until December 2021, represents a mostly complete contact network. In this work, we present several visual representations of the contact structures in NL during our focal period. Comparisons are made between the contact structures observed under different levels of non-pharmaceutical interventions. Finally, the contact tracing data are used to produce a heuristic estimate of the effective reproduction number, presented in the context of changing public health measures. The preceding results are used to facilitate a discussion about the efficacy of NL's public health measures as well as some of the limitations of contact tracing.</p>
 </td></tr>
 </table>
 
@@ -139,15 +139,15 @@ please contact Johnny, Naitong, or Ning.
 
 ---
 
-### <span style="color:#1756a9"> Faculty Speaker (UBC) </span>
+### <span style="color:#1756a9"> Prof. Daniel McDonald (UBC) </span>
 #### <span style="color:#1756a9"> 2:35pm - 3:35pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/daniel.jpeg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Markov-switching state space models for uncovering musical interpretation</strong></p>
+<p style="text-align:justify">For concertgoers, musical interpretation is the most important factor in determining whether or not we enjoy a classical performance. Every performance includes mistakes—intonation issues, a lost note, an unpleasant sound—but these are all easily forgotten (or unnoticed) when a performer engages her audience, imbuing a piece with novel emotional content beyond the vague instructions inscribed on the printed page. In this research, we use data from the CHARM Mazurka Project—forty-six professional recordings of Chopin’s Mazurka Op. 68 No. 3 by consummate artists—with the goal of elucidating musically interpretable performance decisions. We focus specifically on each performer’s use of musical tempo by examining the inter-onset intervals of the note attacks in the recording. To explain these tempo decisions, we develop a switching state space model and estimate it by maximum likelihood combined with prior information gained from music theory and performance practice. We use the estimated parameters to quantitatively describe individual performance decisions and compare recordings. These comparisons suggest methods for informing music instruction, discovering listening preferences, and analyzing performances.</p>
 </td></tr>
 </table>
 
