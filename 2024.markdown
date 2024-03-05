@@ -50,7 +50,7 @@ please contact Johnny, Naitong, or Ning.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/kenny.png">
+<img src="assets/kenny.jpg">
 </td><td>
 <p><strong>Hypothesis testing for distributional invariance</strong></p>
 <p style="text-align:justify">Symmetry is a widespread phenomenon, manifesting as laws of conservation in physics to symmetric body shapes in biology. In statistics and machine learning, symmetry refers to the predictability of an object under some set of transformations. When a data distribution is known to obey a symmetry, various symmetry-exploiting methods have been developed for improved inference and prediction. However, using such methods under incorrect symmetry assumptions can be detrimental, and existing statistical tests for verifying symmetry focus on a handful of specialized cases. We consider invariant symmetries with respect to a general compact transformation group and formulate an intuitive non-parametric hypothesis test for group invariance based on a single sample of i.i.d. data. We implement this test using kernel methods and demonstrate its applications in particle physics and model validation.</p>
@@ -111,7 +111,7 @@ please contact Johnny, Naitong, or Ning.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/olivia.png">
+<img src="assets/olivia.jpg">
 </td><td>
 <p><strong>RtEstim: Effective reproduction number estimation with trend filtering</strong></p>
 <p style="text-align:justify">To understand the transmissibility and spread of infectious diseases, epidemiologists turn to estimates of the effective reproduction number. While many estimation approaches exist, their utility may be limited. Challenges of surveillance data collection, model assumptions that are unverifiable with data alone, and computationally inefficient frameworks are critical limitations for many existing approaches. We propose a discrete spline-based approach RtEstimthat solves a convex optimization problem—Poisson trend filtering—using the proximal Newton method. It produces a locally adaptive estimator for effective reproduction number estimation with heterogeneous smoothness. RtEstim remains accurate even under some process misspecifications and is computationally efficient, even for large-scale data. The implementation is easily accessible in a lightweight R package rtestim: https://dajmcdon.github.io/rtestim/.</p>
