@@ -161,7 +161,6 @@ please contact Johnny or Naitong.
 # Sponsors
 
 |<img src="assets/stat.jpg" width=200/>|
-<!-- <img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>| -->
 
 # Past Seminars
 [Fall 2024](https://www.sfu.ca/~kgp2/JointSeminar2024/#home) | [Spring 2024](https://ubc-sfu-seminar.github.io/2024) | [Fall 2023](https://www.sfu.ca/~rda88/JointSeminar2023/) | [Spring 2023](https://ubc-sfu-seminar.github.io/2023) 
