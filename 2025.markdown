@@ -144,10 +144,20 @@ please contact Johnny or Naitong.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/GeoffPleiss.jpg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Lessons Learned from Developing and Maintaining Open Source Software</strong></p>
+<p style="text-align:justify">Open-source software is an integral part of modern statistical research. 
+The factors contributing to a software project's success extend far beyond writing and releasing code, 
+a lesson that statisticians often learn the hard way. In this talk, I will discuss what I learned from 
+my experiences developing libraries like GPyTorch and LinearOperator, contributing to large-scale projects 
+like PyTorch and BoTorch, and collaborating with other software developers on projects such as CoLA. 
+I will examine key decisions in open-source development, including releasing a standalone library versus 
+a code repository, best practices for maintenance, and strategies for engaging users and contributors. 
+Additionally, I will explore challenges associated with project scoping, long-term maintenance, balancing 
+software development with other academic responsibilities, and gracefully deprecating projects that are no 
+longer sustainable. Finally, I will discuss the importance of (tedious but) good software development habits 
+like version control hygiene, test-driven development, continual deployment, and pair programming.</p>
 </td></tr>
 </table>
 
