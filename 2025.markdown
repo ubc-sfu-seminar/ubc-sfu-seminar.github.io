@@ -45,43 +45,45 @@ please contact Johnny or Naitong.
 
 ---
 
-### <span style="color:#1756a9"> Speaker 1 (UBC) </span>
+### <span style="color:#1756a9"> Agam Sanghera (UBC) </span>
 #### <span style="color:#1756a9"> 10:35am - 11:00am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/placeholder.png">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>An Incremental Learning Framework, Based on Smartphone Image and Sensory Data, for Road Surface Quality Assessment</strong></p>
+<p style="text-align:justify">The prevalence of road defects such as potholes and pits, is quite severe in several Asian countries, such as Indonesia, and India, where roadways are the most accessible means of transportation. The roadways are subject to a substantial number of heavy vehicles that results in accelerated road wear and damage. This problem affects people on a daily basis in some of the most densely populated places on the planet. To tackle this pressing issue, the study utilizes real world data, obtained from cameras and vibration sensors embedded in smartphones. To effectively combat this problem, this research would facilitate the development of an incremental learning system that would recurrently gather data and would be capable of adapting to changes in road conditions, and optimise itself to assess road defects.</p>
 </td></tr>
 </table>
 
 ---
 
-### <span style="color:#1756a9"> Speaker 2 (SFU) </span>
+### <span style="color:#1756a9"> George Thomas (SFU) </span>
 #### <span style="color:#1756a9"> 11:05am - 11:30am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/George Headshot.jpg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Uncovering Moderator Variables in a British Columbia Psychological Study with Causal Random Forests</strong></p>
+<p style="text-align:justify">Heterogeneous treatment effect estimation is an underrepresented phenomenon in the context of randomized experiments in psychology. The population level causal effect of a treatment may not always capture variation across population subgroups, but methods for individual level effect estimation can determine characteristics of subjects who benefit from the treatment the most. In the modern literature, machine learning methods for heterogeneous effect estimation are gaining traction and are applied in many randomized clinical trials across health sciences but not in the context of psychology. We apply an extension of the original random forest algorithm developed by Wager and Athey that allows for estimation and asymptotic inference of heterogeneous treatment effects to a randomized controlled trial with measured psychological outcomes. The trial, known as the British Columbia Healthy Connections Project (BCHCP) measures outcomes at two years postpartum for socioeconomically disadvantaged children and their mothers across British Columbia pertaining to child injury events, cognition, language and maternal subsequent pregnancies. It is based on similar trials run under the Nurse Family Partnership (NFP) banner in the United States. We obtain individual-level treatment effect estimates and perform a regression analysis with generalized additive models to uncover significant maternal baseline moderator variables. Results show multiple significant sources of heterogeneity and may be useful for future targeted implementation of psychological health supports for underprivileged mothers and their children.</p>
 </td></tr>
 </table>
 
 ---
 
-### <span style="color:#1756a9"> Speaker 3 (UBC) </span>
+### <span style="color:#1756a9"> Seren Lee (UBC) </span>
 #### <span style="color:#1756a9"> 11:35am - 12:00pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/serenlee.jpg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Issues of posterior inference in partially identified models and R package with tools for Bayesian inference with partially identified models</strong></p>
+<p style="text-align:justify">With skyrocketing improvements in the computational performance of modern computing machines, the area of Bayesian inference applications is outstandingly improved, and Bayesian statistical analysis is used more frequently. In Bayesian inference, most computational resources are applied to running Markov chain Monte Carlo (MCMC) algorithms to obtain samples from posterior distributions. The MCMC algorithm is the main route to implement Bayesian inference. It allows for high-dimensional and flexible sampling. However, at the same time, researchers can undergo poorer computational performance when Bayesian statistical inference is performed using some specific families of models, namely partially identified models. This is because the good computational performance of the MCMC algorithm is not guaranteed. The parameters of the partially identified model are not uniquely identified, which makes the off-she-shelf MCMC algorithm hard to sample from posterior distributions. Importance sampling with transparent reparameterization (ISTP) is a good computational remedy for posterior inference with partially identified models. With the ISTP algorithm, researchers could obtain better and more stable computational performance while having samples in their original parameterization.
+
+We suggest a method to alleviate the computational challenge of Bayesian inferences with partially identified models, explore its universal usability, and develop a corresponding package in the statistical programming language R to help users perform Bayesian inferences with partially identified models.</p>
 </td></tr>
 </table>
 
@@ -92,43 +94,46 @@ please contact Johnny or Naitong.
 
 ---
 
-### <span style="color:#1756a9"> Speaker 4 (SFU) </span>
+### <span style="color:#1756a9"> Hashan Peiris (SFU) </span>
 #### <span style="color:#1756a9"> 1:00pm - 1:25pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/Hashan headshot.png">
 </td><td>
-<p><strong>Title</strong></p>
+<p><strong>This paper proposes a ratemaking framework for claim frequency that utilizes informative telematics data and complies with the "discount only" regulatory requirement mandated by New York Bill A7614. The proposed framework uses a feedforward neural network to extract a one-dimensional risk score from multi-dimensional telematics features and integrates it with traditional features in generalized linear models. To meet the "discount only" requirement, we impose constraints on the risk score and its regression parameter. The results show that the proposed models, with a suitable risk score function, can outperform the standard GLMs in both in-sample goodness-of-fit and out-of-sample prediction performance. Furthermore, the analysis reveals that while the "discount only" constraint may drive insurers to raise base premiums to offset revenue losses from the relativity cap, the regulation could achieve its intended goal in scenarios with strong favorable selection.</strong></p>
 <p style="text-align:justify">Abstract</p>
 </td></tr>
 </table>
 
 ---
 
-### <span style="color:#1756a9"> Speaker 5 (UBC) </span>
+### <span style="color:#1756a9"> Rachel Lobay (UBC) </span>
 #### <span style="color:#1756a9"> 1:30pm - 1:55pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/placeholder.png">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Refining COVID-19 Infection Estimates Using Finalized Data</strong></p>
+<p style="text-align:justify">Estimates of COVID-19 infections based on finalized data can improve understanding of the pandemic and provide a more meaningful quantification of disease patterns and burden. Therefore, we retrospectively estimated daily incident infections for each U.S. state prior to Omicron. We then used a serology-driven model to scale these deconvolved cases to unreported infections. The resulting infections incorporated variant-specific incubation periods, reinfections, and waning antigenic immunity. In comparison to the gold-standard case data, we found a disease burden that appeared earlier and more extensively than indicated by cases alone. Most notably, in 44 states, fewer than one-third of infections appeared as case reports, and there were sustained periods where surges in infections were virtually undetectable through reported cases.
+
+We extended this approach to the Omicron era by incorporating wastewater data and state-level publicly available reinfection records. These sources helped refine estimates during the Delta-Omicron transition. The improved estimates, along with wastewater concentration data adjusted for limited coverage, were used to calculate shedding ratios, which informed daily infection estimates going forward. Finally, we derived key epidemiological quantities such as effective reproduction numbers and growth rates to track transmission dynamics and short-term changes in infection patterns for each state.</p>
 </td></tr>
 </table>
 
 ---
 
-### <span style="color:#1756a9"> Speaker 6 (SFU) </span>
+### <span style="color:#1756a9"> Hasitha Jayaneththi (SFU) </span>
 #### <span style="color:#1756a9"> 2:00pm - 2:25pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/Hasitha Jayaneththi.jpg">
 </td><td>
-<p><strong>Title</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Three Methods of Generating Space-Filling Designs: a comparison</strong></p>
+<p style="text-align:justify">Space-filling designs are suitable for computer experiments. Unlike traditional experimental designs that focus on factor effects and interactions, space-filling designs aim to cover the experimental domain uniformly, ensuring that the entire range of inputs is well-represented. We compare three methods of generating space-filling designs. While the first two methods make use of orthogonal arrays and strong orthogonal arrays, the third method is based on random balanced designs. The criteria used for evaluating space-filling designs are those of orthogonality, distance and discrepancy. We consider six-level designs with 18 runs which allows us to examine the behaviour of these methods in a moderate-sized experimental setup while maintaining computational feasibility.
+</p>
 </td></tr>
 </table>
 
@@ -170,7 +175,7 @@ like version control hygiene, test-driven development, continual deployment, and
 
 # Sponsors
 
-|<img src="assets/stat.jpg" width=200/>|
+|<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>
 
 # Past Seminars
 [Fall 2024](https://www.sfu.ca/~kgp2/JointSeminar2024/#home) | [Spring 2024](https://ubc-sfu-seminar.github.io/2024) | [Fall 2023](https://www.sfu.ca/~rda88/JointSeminar2023/) | [Spring 2023](https://ubc-sfu-seminar.github.io/2023) 
