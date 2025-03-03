@@ -78,7 +78,7 @@ please contact Johnny or Naitong.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/serenlee.jpg">
+<img src="assets/serenlee.jpeg">
 </td><td>
 <p><strong>Issues of posterior inference in partially identified models and R package with tools for Bayesian inference with partially identified models</strong></p>
 <p style="text-align:justify">With skyrocketing improvements in the computational performance of modern computing machines, the area of Bayesian inference applications is outstandingly improved, and Bayesian statistical analysis is used more frequently. In Bayesian inference, most computational resources are applied to running Markov chain Monte Carlo (MCMC) algorithms to obtain samples from posterior distributions. The MCMC algorithm is the main route to implement Bayesian inference. It allows for high-dimensional and flexible sampling. However, at the same time, researchers can undergo poorer computational performance when Bayesian statistical inference is performed using some specific families of models, namely partially identified models. This is because the good computational performance of the MCMC algorithm is not guaranteed. The parameters of the partially identified model are not uniquely identified, which makes the off-she-shelf MCMC algorithm hard to sample from posterior distributions. Importance sampling with transparent reparameterization (ISTP) is a good computational remedy for posterior inference with partially identified models. With the ISTP algorithm, researchers could obtain better and more stable computational performance while having samples in their original parameterization.
