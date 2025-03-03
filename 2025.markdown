@@ -101,8 +101,10 @@ We suggest a method to alleviate the computational challenge of Bayesian inferen
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/Hashan headshot.png">
 </td><td>
-<p><strong>This paper proposes a ratemaking framework for claim frequency that utilizes informative telematics data and complies with the "discount only" regulatory requirement mandated by New York Bill A7614. The proposed framework uses a feedforward neural network to extract a one-dimensional risk score from multi-dimensional telematics features and integrates it with traditional features in generalized linear models. To meet the "discount only" requirement, we impose constraints on the risk score and its regression parameter. The results show that the proposed models, with a suitable risk score function, can outperform the standard GLMs in both in-sample goodness-of-fit and out-of-sample prediction performance. Furthermore, the analysis reveals that while the "discount only" constraint may drive insurers to raise base premiums to offset revenue losses from the relativity cap, the regulation could achieve its intended goal in scenarios with strong favorable selection.</strong></p>
-<p style="text-align:justify">Abstract</p>
+<p><strong>Development of Telematics Risk Scores in Accordance with Regulatory Compliance</strong></p>
+<p style="text-align:justify">This paper proposes a ratemaking framework for claim frequency that utilizes informative telematics data and complies with the "discount only" regulatory requirement mandated by New York Bill A7614. The proposed framework uses a feedforward neural network to extract a one-dimensional risk score from multi-dimensional telematics features and integrates it with traditional features in generalized linear models. To meet the "discount only" requirement, we impose constraints on the risk score and its regression parameter. The results show that the proposed models, with a suitable risk score function, can outperform the standard GLMs in both in-sample goodness-of-fit and out-of-sample prediction performance. Furthermore, the analysis reveals that while the "discount only" constraint may drive insurers to raise base premiums to offset revenue losses from the relativity cap, the regulation could achieve its intended goal in scenarios with strong favorable selection.
+
+</p>
 </td></tr>
 </table>
 
