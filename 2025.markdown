@@ -50,7 +50,7 @@ please contact Johnny or Naitong.
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/agamsanghera.png">
 </td><td>
 <p><strong>An Incremental Learning Framework, Based on Smartphone Image and Sensory Data, for Road Surface Quality Assessment</strong></p>
 <p style="text-align:justify">The prevalence of road defects such as potholes and pits, is quite severe in several Asian countries, such as Indonesia, and India, where roadways are the most accessible means of transportation. The roadways are subject to a substantial number of heavy vehicles that results in accelerated road wear and damage. This problem affects people on a daily basis in some of the most densely populated places on the planet. To tackle this pressing issue, the study utilizes real world data, obtained from cameras and vibration sensors embedded in smartphones. To effectively combat this problem, this research would facilitate the development of an incremental learning system that would recurrently gather data and would be capable of adapting to changes in road conditions, and optimise itself to assess road defects.</p>
@@ -115,7 +115,7 @@ We suggest a method to alleviate the computational challenge of Bayesian inferen
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/placeholder.png">
+<img src="assets/rachellobay.png">
 </td><td>
 <p><strong>Refining COVID-19 Infection Estimates Using Finalized Data</strong></p>
 <p style="text-align:justify">Estimates of COVID-19 infections based on finalized data can improve understanding of the pandemic and provide a more meaningful quantification of disease patterns and burden. Therefore, we retrospectively estimated daily incident infections for each U.S. state prior to Omicron. We then used a serology-driven model to scale these deconvolved cases to unreported infections. The resulting infections incorporated variant-specific incubation periods, reinfections, and waning antigenic immunity. In comparison to the gold-standard case data, we found a disease burden that appeared earlier and more extensively than indicated by cases alone. Most notably, in 44 states, fewer than one-third of infections appeared as case reports, and there were sustained periods where surges in infections were virtually undetectable through reported cases.
