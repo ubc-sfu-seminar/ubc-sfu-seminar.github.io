@@ -159,7 +159,7 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 ---
 
 # Sponsors
-
+<img src="assets/canssi.png" width=200/>
 <!-- |<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/> -->
 
 # Past Seminars
