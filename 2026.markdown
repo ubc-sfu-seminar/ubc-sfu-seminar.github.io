@@ -78,7 +78,7 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.jpeg">
+<img src="assets/Jack_Farley.jpeg">
 </td><td>
 <p><strong>A new approach to the forward-backward algorithm</strong></p>
 <p style="text-align:justify">A Hidden Markov Model (HMM) is a probabilistic model for sequential data consisting of a hidden discrete-state process and observations generated from state-dependent emission distributions. Due to their flexibility, HMMs are widely used in diverse fields such as ecology, econometrics, and natural language processing. Given a sequence of observations, the forward–backward algorithm computes the posterior marginal distributions of the hidden states. However, for long time series, it can be slow because it requires sequential forward and backward passes over the entire sequence. In this talk, I present a parallel-in-time reformulation of the forward–backward algorithm optimized for GPU architectures. This enables scalable smoothing for long sequences, which I will discuss in several application settings.</p>
