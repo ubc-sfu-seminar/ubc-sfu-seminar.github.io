@@ -45,15 +45,15 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 ---
 
-### <span style="color:#1756a9"> (UBC) </span>
+### <span style="color:#1756a9"> Johnny Xi (UBC) </span>
 #### <span style="color:#1756a9"> 10:35am - 11:00am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
+<img src="assets/Johnny_Xi.jpg">
 </td><td>
-<p><strong>TBA</strong></p>
-<p style="text-align:justify">TBA.</p>
+<p><strong>Distinguishing Cause from Effect with Causal Velocity Models</strong></p>
+<p style="text-align:justify">Inferring causal relations from purely observational data is a challenging task due to the symmetry of statistical dependence. In the absence of cycles, it is well-known that even in multivariate settings that this symmetry collapses to an indeterminacy in bivariate causal directions: that is, determining whether X causes Y, or Y causes X. In the absence of experimental data, a common approach is to formulate prospective model classes for the underlying causal process, and conduct goodness-of-fit comparisons to infer the most likely causal direction. In this talk, we describe novel parametrizations of scalar-on-scalar causal models in terms of a causal velocity function, by viewing the cause variable as time in a dynamical system. Using tools from measure transport, we obtain a unique correspondence between the underlying velocity and the score function of the observational distribution, yielding a novel goodness-of-fit procedure based on non-parametric score estimation that extends beyond known model classes and requires no distributional assumptions. We present positive results in simulation and benchmark experiments where many existing methods fail, and perform ablation studies to examine the method’s sensitivity to accurate score estimation.</p>
 </td></tr>
 </table>
 
@@ -73,15 +73,15 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 ---
 
-### <span style="color:#1756a9"> (UBC) </span>
+### <span style="color:#1756a9"> Jack Farley (UBC) </span>
 #### <span style="color:#1756a9"> 11:35am - 12:00pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/speaker.jpeg">
 </td><td>
-<p><strong>TBA</strong></p>
-<p style="text-align:justify">TBA.</p>
+<p><strong>A new approach to the forward-backward algorithm</strong></p>
+<p style="text-align:justify">A Hidden Markov Model (HMM) is a probabilistic model for sequential data consisting of a hidden discrete-state process and observations generated from state-dependent emission distributions. Due to their flexibility, HMMs are widely used in diverse fields such as ecology, econometrics, and natural language processing. Given a sequence of observations, the forward–backward algorithm computes the posterior marginal distributions of the hidden states. However, for long time series, it can be slow because it requires sequential forward and backward passes over the entire sequence. In this talk, I present a parallel-in-time reformulation of the forward–backward algorithm optimized for GPU architectures. This enables scalable smoothing for long sequences, which I will discuss in several application settings.</p>
 </td></tr>
 </table>
 
@@ -106,15 +106,15 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 ---
 
-### <span style="color:#1756a9"> (UBC) </span>
+### <span style="color:#1756a9"> Naitong Chen (UBC) </span>
 #### <span style="color:#1756a9"> 1:30pm - 1:55pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
+<img src="assets/Naitong_Chen.jpg">
 </td><td>
-<p><strong>TBA</strong></p>
-<p style="text-align:justify">TBA.</p>
+<p><strong>Coreset Markov chain Monte Carlo</strong></p>
+<p style="text-align:justify">A Bayesian coreset is a small, weighted subset of data that replaces the full dataset during inference in order to reduce computational cost. However, state of the art methods for tuning coreset weights are expensive, require nontrivial user input, and impose constraints on the model. In this work, we propose a new method—Coreset MCMC—that simulates a Markov chain targeting the coreset posterior, while simultaneously updating the coreset weights using those same draws. Coreset MCMC is simple to implement and tune, and can be used with any existing MCMC kernel. We analyze Coreset MCMC in a representative setting to obtain key insights about the convergence behaviour of the method. Empirical results demonstrate that Coreset MCMC provides higher quality posterior approximations and reduced computational cost compared with other coreset construction methods. Further, compared with other general subsampling MCMC methods, we find that Coreset MCMC has a higher sampling efficiency with competitively accurate posterior approximations.</p>
 </td></tr>
 </table>
 
