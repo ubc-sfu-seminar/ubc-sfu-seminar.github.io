@@ -144,7 +144,7 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
+<img src="assets/Saif_Syed.jpg">
 </td><td>
 <p><strong>TBA</strong></p>
 <p style="text-align:justify">TBA.</p>
@@ -159,8 +159,7 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 ---
 
 # Sponsors
-<img src="assets/canssi.png" width=200/>
-<!-- |<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/> -->
+|<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>|
 
 # Past Seminars
 [Fall 2025](https://sfu-ubc-joint-seminar-fall-25.eventbrite.ca) | [Spring 2025](https://ubc-sfu-seminar.github.io/2025) | [Fall 2024](https://www.sfu.ca/~kgp2/JointSeminar2024/#home) | [Spring 2024](https://ubc-sfu-seminar.github.io/2024) | [Fall 2023](https://www.sfu.ca/~rda88/JointSeminar2023/) | [Spring 2023](https://ubc-sfu-seminar.github.io/2023) 
