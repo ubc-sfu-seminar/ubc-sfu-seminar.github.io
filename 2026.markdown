@@ -146,8 +146,10 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 <tr><td width="50%" style="vertical-align:text-top">
 <img src="assets/Saif_Syed.jpg">
 </td><td>
-<p><strong>TBA</strong></p>
-<p style="text-align:justify">TBA.</p>
+<p><strong>A simple recipe for CREPE (Controlling REPlica-Exchange)</strong></p>
+<p style="text-align:justify">Markov Chain Monte Carlo (MCMC) is a powerful algorithmic framework for sampling from complex probability distributions. Standard MCMC methods struggle with high-dimensional distributions containing well-separated modes, becoming trapped in local regions. Parallel tempering (PT) addresses this by using intermediate annealing distributions to bridge a tractable reference (e.g., Gaussian) and an intractable target distribution. However, classical PT is inflexible, fragile, hard to tune, and prone to performance collapse on challenging inference tasks.
+
+This talk introduces non-reversible parallel tempering (NRPT), which provably dominates classical reversible PT algorithms. We show that NRPT undergoes a sharp algorithmic phase transition with increased parallelism, becoming robust, easy to tune, and scaling efficiently to GPUs. I will then demonstrate how to further accelerate PT using neural transports such as normalising flows and diffusions. We demonstrate this framework across a variety of examples in Bayesian inference and inference-time control for diffusion models.</p>
 </td></tr>
 </table>
 
