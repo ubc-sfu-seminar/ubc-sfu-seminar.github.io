@@ -59,15 +59,15 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 ---
 
-### <span style="color:#1756a9"> (SFU) </span>
+### <span style="color:#1756a9"> Haiyi Shi (SFU) </span>
 #### <span style="color:#1756a9"> 11:05am - 11:30am </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.jpg">
+<img src="assets/Haiyi_Shi.JPG">
 </td><td>
-<p><strong>TBA</strong></p>
-<p style="text-align:justify">TBA.</p>
+<p><strong>A short introduction to the stochastic inverse problem</strong></p>
+<p style="text-align:justify">This talk first introduces the concepts of inverse problems, using linear equations as a starting point. A primary challenge in these linear systems is ill-conditioning, which could severely undermine the solution accuracy. Then we formulate the Stochastic Inverse Problem (SIP), illustrated by some concrete examples. Finally, we explore a non-parametric Bayesian approach for solving SIPs and the problem of its ill-conditioning.</p>
 </td></tr>
 </table>
 
@@ -92,15 +92,16 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 ---
 
-### <span style="color:#1756a9"> (SFU) </span>
+### <span style="color:#1756a9"> Zikai Xu (SFU) </span>
 #### <span style="color:#1756a9"> 1:00pm - 1:25pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
+<img src="assets/Zikai_Xu.jpg">
 </td><td>
-<p><strong>TBA</strong></p>
-<p style="text-align:justify">TBA.</p>
+<p><strong>P-Value Combination Under Sample Overlap: A Gamma Approximation Approach for GWAS
+Meta-Analysis</strong></p>
+<p style="text-align:justify">Meta-analysis is a popular approach to combine results from multiple genome-wide association studies (GWAS) without sharing individual-level data. Large consortiums can meta-analyze dozens to hundreds of individual studies. For example, the HostSeq project is a Canadian initiative in which 15 clinical and epidemiological studies were assembled with DNA samples from ~10,000 Canadians infected by the SARS-CoV-2 virus. However, individuals might have been recruited into more than one study, which induces sample overlaps between studies and thus violates the common independence assumptions in standard meta-analysis approaches. To resolve this problem, we propose an adjustment to Fisher's method that explicitly corrects the correlation between the p-values to be combined. Our proposed method requires no individual-level data and minimal summary statistics from the overlapping samples. We demonstrate with simulation studies that our proposed method is accurate and has comparable power with mega analysis where all individual-level data are available. We further applied our method to partially overlapping studies in the HostSeq initiative.</p>
 </td></tr>
 </table>
 
@@ -120,27 +121,13 @@ please contact [Son](https://www.stat.ubc.ca/users/son-luu) or [Jessica](https:/
 
 ---
 
-### <span style="color:#1756a9"> (SFU) </span>
-#### <span style="color:#1756a9"> 2:00pm - 2:25pm </span>
-
-<table cellspacing="0" cellpadding="0">
-<tr><td width="50%" style="vertical-align:text-top">
-<img src="assets/speaker.png">
-</td><td>
-<p><strong>TBA</strong></p>
-<p style="text-align:justify">TBA.</p>
-</td></tr>
-</table>
-
----
-
 ### <span style="color:#1756a9"> Break </span>
-#### <span style="color:#1756a9"> 2:25pm - 2:35pm </span>
+#### <span style="color:#1756a9"> 2:00pm - 2:10pm </span>
 
 ---
 
 ### <span style="color:#1756a9"> Prof. Saifuddin Syed (UBC) </span>
-#### <span style="color:#1756a9"> 2:35pm - 3:35pm </span>
+#### <span style="color:#1756a9"> 2:10pm - 3:10pm </span>
 
 <table cellspacing="0" cellpadding="0">
 <tr><td width="50%" style="vertical-align:text-top">
@@ -156,12 +143,12 @@ This talk introduces non-reversible parallel tempering (NRPT), which provably do
 ---
 
 ### <span style="color:#1756a9"> Networking and Drinks at Browns! </span>
-#### <span style="color:#1756a9"> 3:40pm </span>
+#### <span style="color:#1756a9"> 3:15pm </span>
 
 ---
 
 # Sponsors
-|<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>|
+|<img src="assets/stat.jpg" width=200/>|<img src="assets/canssi.png" width=200/>|<img src="assets/gss.png" width=200/>
 
 # Past Seminars
 [Fall 2025](https://sfu-ubc-joint-seminar-fall-25.eventbrite.ca) | [Spring 2025](https://ubc-sfu-seminar.github.io/2025) | [Fall 2024](https://www.sfu.ca/~kgp2/JointSeminar2024/#home) | [Spring 2024](https://ubc-sfu-seminar.github.io/2024) | [Fall 2023](https://www.sfu.ca/~rda88/JointSeminar2023/) | [Spring 2023](https://ubc-sfu-seminar.github.io/2023) 
